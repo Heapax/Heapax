@@ -8,7 +8,9 @@
 
 </div>
 
-Hi, I'm Shon. I'm a DevOps engineer and cloud solutions architect with experience building and running infrastructure, CI/CD pipelines, and containerized applications that scale and stay reliable.
+<div align="center">
+  <p><strong>Hey there!</strong>👋 I'm Shon, a DevOps engineer and cloud solutions architect with experience building and running infrastructure, CI/CD pipelines, and containerized applications that scale and stay reliable..</p>
+</div>
 
 Some of the tools I work with regularly: Terraform, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana.
 
