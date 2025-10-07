@@ -1,12 +1,11 @@
 # <div align="center">🚀 **Shon Mazur**</div>
 
 <div align="center">
-  
 ![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
-
 <img src="https://github.com/Heapax/Heapax/blob/main/SHON%20MAZUR.png" alt="aboutme" width="800px">
-
 </div>
+
+<br>
 
 <div align="center">
   <p><strong>Hey there!</strong>👋 I'm Shon, a DevOps engineer and cloud solutions architect with experience building and running infrastructure, CI/CD pipelines, and containerized applications that scale and stay reliable..</p>
@@ -16,7 +15,7 @@
 
 ## 💫 About Me
 
-table>
+<table>
 <tr>
 <td width="50%">
 
