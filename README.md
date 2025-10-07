@@ -32,7 +32,16 @@
 
 </td>
 <td width="50%">
+  
+### Quick Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-notharshhaa.site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://notharshhaa.site)
+[![Resume](https://img.shields.io/badge/Resume-cv.notharshhaa.site-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.notharshhaa.site)
+[![Blog](https://img.shields.io/badge/Blog-blog.notharshhaa.site-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.notharshhaa.site)
+[![Links](https://img.shields.io/badge/All%20Links-link.notharshhaa.site-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://link.notharshhaa.site)
 
+</td>
+</tr>
+</table>
 
 Some of the tools I work with regularly: Terraform, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana.
 
