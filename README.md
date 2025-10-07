@@ -34,10 +34,7 @@
 <td width="50%">
   
 ### Quick Links
-![Portfolio](https://img.shields.io/badge/Portfolio-notharshhaa.site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
-![Resume](https://img.shields.io/badge/Resume-cv.notharshhaa.site-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![Blog](https://img.shields.io/badge/Blog-blog.notharshhaa.site-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)
-![Links](https://img.shields.io/badge/All%20Links-link.notharshhaa.site-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)
+
 
 </td>
 </tr>
