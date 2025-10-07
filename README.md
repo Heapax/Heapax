@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-Hi, I'm Shon. I build and run cloud infrastructure, mostly on AWS, and I really like making things work reliably and at scale.  
+Hi, I'm Shon. I work as a DevOps engineer and cloud solutions architect, mostly on AWS. I build and run infrastructure, CI/CD pipelines, and containerized applications in a way that scales and stays reliable.
 
-I've been doing DevOps for a few years now — setting up CI/CD pipelines, managing Kubernetes clusters, writing Terraform modules, and generally keeping systems running smoothly.  
+Some of the tools I work with regularly: Terraform, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana.  
 
-Some things I’ve worked on (all examples I can share publicly):  
-- **terraform-aws-three-tier-app** — a full 3-tier architecture on AWS built with Terraform.  
-- **k8s-observability-stack** — Prometheus, Grafana, and Loki for monitoring Kubernetes workloads.  
-- **ci-cd-pipeline-demo** — a GitHub Actions pipeline that builds, tests, and deploys a containerized app to EKS.  
+Certifications I have: AWS Solutions Architect Associate, Certified Kubernetes Administrator, Terraform Associate.
 
-Certifications I hold: AWS Solutions Architect, CKA, Terraform Associate.  
+Featured projects:
+- terraform-aws-three-tier-app: a production-ready 3-tier web app setup with VPC, ALB, and RDS using Terraform modules.
+- k8s-observability-stack: Prometheus, Grafana, Loki stack deployment on Kubernetes with basic alerting.
+- ci-cd-pipeline-demo: a full GitHub Actions pipeline from build to deploy on EKS.
 
-I try to keep my repos clear and documented so anyone can follow how I approach infrastructure and automation.
+I try to make infrastructure predictable, observable, and easy to maintain. Most of my previous work is private, but these projects show how I approach design, automation, and reliability.
