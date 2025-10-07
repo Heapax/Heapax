@@ -1,27 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Heapax/Heapax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shon. I build and run cloud infrastructure, mostly on AWS, and I really like making things work reliably and at scale.  
 
-Here are some ideas to get you started:
+I've been doing DevOps for a few years now — setting up CI/CD pipelines, managing Kubernetes clusters, writing Terraform modules, and generally keeping systems running smoothly.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things I’ve worked on (all examples I can share publicly):  
+- **terraform-aws-three-tier-app** — a full 3-tier architecture on AWS built with Terraform.  
+- **k8s-observability-stack** — Prometheus, Grafana, and Loki for monitoring Kubernetes workloads.  
+- **ci-cd-pipeline-demo** — a GitHub Actions pipeline that builds, tests, and deploys a containerized app to EKS.  
 
-👋 Hi, I'm Shon — a DevOps Engineer specialized in cloud architecture, automation, and CI/CD.
+Certifications I hold: AWS Solutions Architect, CKA, Terraform Associate.  
 
-💡 I design resilient, cost-efficient systems using AWS, Terraform, Kubernetes, and GitHub Actions.
-
-🎯 Certifications: AWS Solutions Architect Professional | CKA | Terraform Associate
-
-🚀 Featured Projects:
-- terraform-aws-three-tier-app
-- k8s-observability-stack
-- ci-cd-pipeline-demo
+I try to keep my repos clear and documented so anyone can follow how I approach infrastructure and automation.
