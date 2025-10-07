@@ -12,6 +12,26 @@
   <p><strong>Hey there!</strong>👋 I'm Shon, a DevOps engineer and cloud solutions architect with experience building and running infrastructure, CI/CD pipelines, and containerized applications that scale and stay reliable..</p>
 </div>
 
+<br>
+
+## 💫 About Me
+
+table>
+<tr>
+<td width="50%">
+
+### What I Do
+- 🌩️ **Cloud & DevOps Specialist**
+  - Architecting scalable infrastructures
+  - AWS, Azure, Kubernetes expert
+- 🤖 **Automation Enthusiast**
+  - CI/CD pipelines
+  - Infrastructure as Code (IaC)
+
+</td>
+<td width="50%">
+
+
 Some of the tools I work with regularly: Terraform, Kubernetes, Docker, GitHub Actions, Prometheus, Grafana.
 
 Certifications: AWS Solutions Architect Associate, Certified Kubernetes Administrator, Terraform Associate.
