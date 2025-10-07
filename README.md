@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Shon — a DevOps Engineer specialized in cloud architecture, automation, and CI/CD.
+
+💡 I design resilient, cost-efficient systems using AWS, Terraform, Kubernetes, and GitHub Actions.
+
+🎯 Certifications: AWS Solutions Architect Professional | CKA | Terraform Associate
+
+🚀 Featured Projects:
+- terraform-aws-three-tier-app
+- k8s-observability-stack
+- ci-cd-pipeline-demo
